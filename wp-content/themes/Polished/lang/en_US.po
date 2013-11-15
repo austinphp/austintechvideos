@@ -1,0 +1,286 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Polished 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-02 18:49+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ann <anochka1985@gmail.com>\n"
+"Language-Team: Ann <anochka1985@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:17
+msgid "No Responses"
+msgstr ""
+
+#: ../comments.php:17
+msgid "One Response"
+msgstr ""
+
+#: ../comments.php:17
+msgid "% Responses"
+msgstr ""
+
+#: ../comments.php:17
+msgid "to "
+msgstr ""
+
+#: ../comments.php:41
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:59
+msgid "Submit Comment"
+msgstr ""
+
+#: ../comments.php:59
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:59
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../footer.php:14
+msgid "Powered by "
+msgstr ""
+
+#: ../footer.php:14
+msgid "Designed by "
+msgstr ""
+
+#: ../header.php:52
+#: ../page-search.php:47
+msgid "search this site..."
+msgstr ""
+
+#: ../header.php:67
+msgid "Home"
+msgstr ""
+
+#: ../page-blog.php:47
+#: ../page-contact.php:89
+#: ../page-full.php:35
+#: ../page-gallery.php:43
+#: ../page-login.php:40
+#: ../page-search.php:40
+#: ../page-search.php:50
+#: ../page-sitemap.php:40
+#: ../page-sitemap.php:44
+#: ../page-template-portfolio.php:52
+#: ../page.php:29
+msgid "Pages"
+msgstr ""
+
+#: ../page-blog.php:62
+msgid "Posted"
+msgstr ""
+
+#: ../page-blog.php:62
+msgid "by"
+msgstr ""
+
+#: ../page-blog.php:62
+msgid "on"
+msgstr ""
+
+#: ../page-blog.php:62
+msgid "in"
+msgstr ""
+
+#: ../page-blog.php:62
+msgid "0 comments"
+msgstr ""
+
+#: ../page-blog.php:62
+msgid "1 comment"
+msgstr ""
+
+#: ../page-blog.php:62
+msgid "comments"
+msgstr ""
+
+#: ../page-blog.php:82
+msgid "read more"
+msgstr ""
+
+#: ../page-blog.php:105
+#: ../page-contact.php:138
+#: ../page-full.php:36
+#: ../page-gallery.php:85
+#: ../page-login.php:57
+#: ../page-search.php:86
+#: ../page-sitemap.php:73
+#: ../page-template-portfolio.php:160
+#: ../page.php:30
+msgid "Edit this page"
+msgstr ""
+
+#: ../page-contact.php:22
+msgid "Make sure you entered the captcha. "
+msgstr ""
+
+#: ../page-contact.php:26
+msgid "You entered the wrong number in captcha. "
+msgstr ""
+
+#: ../page-contact.php:35
+msgid "Make sure you fill all fields. "
+msgstr ""
+
+#: ../page-contact.php:40
+msgid "Invalid Email. "
+msgstr ""
+
+#: ../page-contact.php:61
+msgid "Thanks for contacting us"
+msgstr ""
+
+#: ../page-contact.php:99
+msgid "Name"
+msgstr ""
+
+#: ../page-contact.php:103
+msgid "Email Address"
+msgstr ""
+
+#: ../page-contact.php:107
+msgid "Subject"
+msgstr ""
+
+#: ../page-contact.php:114
+msgid "Captcha: "
+msgstr ""
+
+#: ../page-contact.php:130
+msgid "Reset"
+msgstr ""
+
+#: ../page-contact.php:131
+#: ../page-search.php:78
+msgid "Submit"
+msgstr ""
+
+#: ../page-gallery.php:67
+#: ../page-template-portfolio.php:114
+msgid "Zoom in"
+msgstr ""
+
+#: ../page-gallery.php:68
+#: ../page-template-portfolio.php:115
+msgid "Read more"
+msgstr ""
+
+#: ../page-login.php:46
+msgid "Username"
+msgstr ""
+
+#: ../page-login.php:47
+msgid "Password"
+msgstr ""
+
+#: ../page-login.php:51
+msgid "Not a member?"
+msgstr ""
+
+#: ../page-login.php:51
+msgid "Register today!"
+msgstr ""
+
+#: ../page-search.php:44
+msgid "search this website"
+msgstr ""
+
+#: ../page-search.php:49
+msgid "Posts"
+msgstr ""
+
+#: ../page-search.php:53
+msgid "Select a month"
+msgstr ""
+
+#: ../page-sitemap.php:49
+msgid "Categories"
+msgstr ""
+
+#: ../page-sitemap.php:54
+msgid "Tags"
+msgstr ""
+
+#: ../page-sitemap.php:66
+msgid "Authors"
+msgstr ""
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: ../includes/entry.php:13
+#: ../includes/entry.php:19
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: ../includes/entry.php:30
+#: ../includes/featured.php:68
+msgid "Read More"
+msgstr ""
+
+#: ../includes/featured.php:38
+msgid "Posted by"
+msgstr ""
+
+#: ../includes/featured.php:38
+msgid " on "
+msgstr ""
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr ""
+
+#: ../includes/no-results.php:4
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr ""
+
+#: ../includes/functions/comments.php:14
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../includes/functions/comments.php:14
+msgid "(Edit)"
+msgstr ""
+
+#: ../includes/functions/comments.php:24
+msgid "reply"
+msgstr ""
+

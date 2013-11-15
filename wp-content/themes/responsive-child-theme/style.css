@@ -1,0 +1,118 @@
+/*   
+Theme Name: Responsive Child
+Theme URI: http://themeid.com/responsive-theme
+Description: Responsive Child Theme
+Author: Emil Uzelac
+Author URI: http://themeid.com
+Template: responsive
+Version: 1.0
+*/
+
+/* Import Responsive Styles */
+@import url('../responsive/style.css');
+
+/* =Start Here
+-------------------------------------------------------------- */
+
+.share{
+float: right;
+}
+
+.col-100{
+	width: 100%;
+}
+
+
+
+/* =Responsive Design
+    Media Queries
+-------------------------------------------------------------- */
+@media screen and (max-width: 980px) {
+
+    body {
+    }
+
+    .grid, .grid-right {
+	    float:none;
+    }
+	
+	#featured-image .fluid-width-video-wrapper {
+	    margin:20px 0 0 0;
+    }
+}
+
+@media screen and (max-width: 650px) {
+
+    body {
+    }
+
+    #header #logo {
+	    float:none;
+	    text-align:center;
+    }
+
+    .grid, .grid-right {
+	    float:none;
+    }
+
+	#featured-image .fluid-width-video-wrapper {
+	    margin:20px 0 0 0;
+    }
+	
+    .js .menu,
+	.sub-header-menu {
+		display:none;
+	}
+	
+	.top-menu, .footer-menu li {
+	    float:none;
+	    text-align:center;
+    }
+	
+	.tinynav { 
+	    display:block;
+		margin:0 auto;
+		width:100%;
+	}
+	
+    #footer {
+	    text-align:center;
+    }
+
+    #footer .social-icons {
+	    text-align:center;
+    }
+}
+
+@media screen and (max-width: 480px) {
+
+    body {
+    }
+
+    #header #logo {
+	    float:none;
+	    text-align:center;
+    }
+
+    .grid, .grid-right {
+	    float:none;
+    }
+	
+	#featured-image .fluid-width-video-wrapper {
+	    margin:20px 0 0 0;
+    }
+
+    .menu li, .top-menu, .footer-menu li, .sub-header-menu li {
+	    float:none;
+	    text-align:center;
+    }
+	
+    #footer {
+	    text-align:center;
+    }
+
+    #footer .social-icons {
+	    text-align:center;
+    }
+}
+/*"The last 29 days of the month are the hardest."- Nikola Tesla*/

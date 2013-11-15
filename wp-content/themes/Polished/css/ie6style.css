@@ -1,0 +1,8 @@
+#header #featured #featured_content { width: 819px; }
+#header #featured #featured_content #f_menu { float: right; padding-right: 100px; width: 200px; position: absolute; }
+#header #featured #featured_content #f_menu .featitem { float: right; }
+#footer_widgets .block_b { margin: 0 0px 0 34px; }
+#sidebar {width: 240px; overflow: hidden; }
+#content #main {  width: 708px; overflow: hidden;  }
+#header #searchinput { margin-top: -2px;  }
+body { background-image: none; }

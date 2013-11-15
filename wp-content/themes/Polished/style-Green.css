@@ -1,0 +1,13 @@
+.sf-menu li a:hover {color: #78ff00;}
+#f_menu .active  {border-right:7px solid #48ff00;}
+.wp-pagenavi span.current {background:none repeat scroll 0 0 #63e600 !important; border:1px solid #50bb00 !important;}
+a  { color:#3fab01; }
+#main a.comment-reply-link { background:none repeat scroll 0 0 #768c65;}
+.reply-container  { background:url("images/green/reply-right-bg.png") no-repeat scroll right bottom transparent;}
+ul.sf-menu li.backLava { background: url('images/green/lavalamp.png') no-repeat; background-position: center 0px; }
+span.readmore_b { background: url('images/green/button_blue_left.png') 0 0 no-repeat; }
+span.readmore_b a{ background: url('images/green/button_blue_right.png') no-repeat top right; text-shadow: -1px -1px 1px #43d000; }
+
+/*------------------------------------------------*/
+.no_sidebar #content{background-image:url("images/content_bg-full.png") !important;}
+.no_sidebar #main {width:912px !important;}
